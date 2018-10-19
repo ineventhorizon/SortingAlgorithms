@@ -1,0 +1,7 @@
+﻿  SortingAlgorithms.cpp
+d:\cc\sortalgorithms\sortalgorithms\sortingalgorithms.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Main.cpp
+d:\cc\sortalgorithms\sortalgorithms\main.cpp(16): warning C4101: 'duration': unreferenced local variable
+  Generating Code...
+  SortAlgorithms.vcxproj -> D:\cc\SortAlgorithms\Debug\SortAlgorithms.exe
+  SortAlgorithms.vcxproj -> D:\cc\SortAlgorithms\Debug\SortAlgorithms.pdb (Partial PDB)
