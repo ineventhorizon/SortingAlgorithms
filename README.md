@@ -42,8 +42,8 @@ For example : `SortingAlgorithms sort`
  - O(n^2) 
 
   `int A[]` : Array to be sorted.
- `int N` : Array's size.
- `return value` : Returns the elapsed time.
+  `int N` : Array's size.
+  `return value` : Returns the elapsed time.
 
 ## Quick Sort (Public)  `quickSort(int A[], int N)` 
 
